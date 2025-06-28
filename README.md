@@ -39,3 +39,48 @@ Como analista de datos, fui contratado para descubrir oportunidades clave en su 
 
 ## 📁 Estructura del proyecto
 
+platos-pizza-analysis/
+│
+├── notebook.ipynb ← Análisis principal paso a paso
+├── dataset.csv ← Base de datos (si es compartible)
+├── img/ ← Imágenes de los gráficos
+│ ├── ventas_por_hora.png
+│ ├── heatmap_horas.png
+│ └── top5_pizzas.png
+└── README.md ← Este documento
+
+
+---
+
+## 🔍 Hallazgos clave
+
+- Entre las 9 y 11 a.m. y las 21 y 23 hrs es probable que los gastos de nomina rebasen las ventas.
+- Las horas pico reales eran de **12:00–14:00 y 18:00–20:00**.
+- La ocupación de mesas era baja fuera de esos horarios clave.
+
+---
+
+## ✅ Recomendaciones para el negocio
+
+- Ajustar los horarios de apertura/cierre según la demanda real.
+- Rediseñar turnos de personal para alinearse con picos de actividad.
+- Optimizar el menú: eliminar productos de baja rotación.
+- Promocionar combos o ventas cruzadas para aumentar el ticket promedio.
+- Usar dashboards para monitoreo en tiempo real.
+
+---
+
+## 🤝 Contacto
+
+¿Tienes un negocio y estás tomando decisiones sin datos?  
+¿Eres reclutador y buscas un analista que entienda tanto de código como de negocio?
+
+
+🔗 [LinkedIn](www.linkedin.com/in/jesus-andres-baez)  
+🐍 [Más proyectos en Youtube (https://www.youtube.com/@Jesus-Baez))
+
+---
+
+
+
+
